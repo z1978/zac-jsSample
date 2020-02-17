@@ -1,0 +1,16 @@
+id	tags	name	email	title	img	pid
+1	Directors	Billy Moore	billy.moore@email.com	CEO	https://cdn.balkan.app/shared/2.jpg	
+2	Directors	Marley Wilson		Director	https://cdn.balkan.app/shared/3.jpg	
+3	Directors	Bennie Shelton		Shareholder	https://cdn.balkan.app/shared/4.jpg	
+4		Billie Rose	billie.rose@email.com	Dev Team Lead	https://cdn.balkan.app/shared/5.jpg	1
+5	HRs	Glenn Bell		HR	https://cdn.balkan.app/shared/10.jpg	1
+6	HRs	Blair Francis		HR	https://cdn.balkan.app/shared/11.jpg	1
+7		Skye Terrell		Manager	https://cdn.balkan.app/shared/12.jpg	1
+8	Devs	Jordan Harris		JS Developer	https://cdn.balkan.app/shared/6.jpg	4
+9	Devs	Will Woods		JS Developer	https://cdn.balkan.app/shared/7.jpg	4
+10	Devs	Skylar Parrish		node.js Developer	https://cdn.balkan.app/shared/8.jpg	4
+11	Devs	Ashton Koch		C# Developer	https://cdn.balkan.app/shared/9.jpg	4
+12	Sales	Bret Fraser		Sales	https://cdn.balkan.app/shared/13.jpg	7
+13	Sales	Steff Haley		Sales	https://cdn.balkan.app/shared/14.jpg	7
+14	Sales	Steff Haley		Sales	https://cdn.balkan.app/shared/14.jpg	7
+15	Sales	Steff Haley		Sales	https://cdn.balkan.app/shared/14.jpg	7
